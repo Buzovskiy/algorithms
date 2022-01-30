@@ -1,7 +1,3 @@
-import sys
-import os
-
-
 def fib(n):
     """
     Get Fibonacci number
@@ -15,3 +11,4 @@ def fib(n):
 
 if __name__ == '__main__':
     print(fib(7))
+
