@@ -9,5 +9,6 @@ class Solution:
         return res
 
 
-ress = Solution().mergeAlternately('abc', 'pqr')
-print(ress)
+if __name__ == '__main__':
+    ress = Solution().mergeAlternately('abc', 'pqr')
+    print(ress)

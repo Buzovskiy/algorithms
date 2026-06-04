@@ -32,7 +32,8 @@ class Solution:
                 return True
             return False
 
-print(Solution().isPalindrome2(0))
+if __name__ == '__main__':
+    print(Solution().isPalindrome2(0))
 
 
 

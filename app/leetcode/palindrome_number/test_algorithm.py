@@ -1,5 +1,5 @@
 import unittest
-from app.leetcode.palindrome_number import Solution
+from .algorithm import Solution
 
 
 class TestPalindromeNumber(unittest.TestCase):

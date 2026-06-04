@@ -1,21 +1,20 @@
-# Мои алгоритмы
-Алгоритмы находятся в папке app
-### Запуск тестов
-Для запуска всех тестов в коммандной строке в корне приложения вызвать модуль `unittest`
+# My Algorithms
+Algorithms are located in the `app` folder, organized into individual packages.
+
+### Running Tests
+To run all tests from the project root:
 ```
-python -m unittest
+py -3 -m unittest discover -p "test_algorithm.py"
 ```
-Запуск тестов в одного файла, например (если в файле есть вызов unittest.main())
+
+To run tests for a specific algorithm:
 ```
-python -m test.test_fibonacci
+py -3 -m unittest app/leetcode/two_sum/test_algorithm.py
 ```
-Если нет вызова
+
+To run a single test case:
 ```
-python -m unittest test.test_fibonacci
-```
-Вызвать только один тест
-```
-python -m test.test_fibonacci TestFibonacci.test_fib
+py -3 -m unittest app.leetcode.two_sum.test_algorithm.TwoSumTestCase.test_two_sum
 ```
 
 
