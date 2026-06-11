@@ -1,5 +1,5 @@
 # 463. Island Perimeter
-[README on GitHub](https://github.com/Buzovskiy/algorithms/blob/main/app/leetcode/463_island_perimeter/README.md)
+[README on GitHub](https://github.com/Buzovskiy/algorithms/blob/main/app/leetcode/lc_463_island_perimeter/README.md)
 
 ## English (Interview Answer)
 

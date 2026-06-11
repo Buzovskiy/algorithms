@@ -2,7 +2,7 @@ import importlib
 import unittest
 
 # Using importlib because of numeric characters in package name
-algorithm = importlib.import_module("app.leetcode.495_teemo_attacking.algorithm")
+algorithm = importlib.import_module("app.leetcode.lc_495_teemo_attacking.algorithm")
 Solution = algorithm.Solution
 
 class TestTeemoAttacking(unittest.TestCase):

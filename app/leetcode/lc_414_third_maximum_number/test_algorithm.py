@@ -2,7 +2,7 @@ import importlib
 import unittest
 
 # Using importlib because of numeric characters in package name
-algorithm = importlib.import_module("app.leetcode.414_third_maximum_number.algorithm")
+algorithm = importlib.import_module("app.leetcode.lc_414_third_maximum_number.algorithm")
 Solution = algorithm.Solution
 
 

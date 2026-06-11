@@ -2,7 +2,7 @@ import importlib
 import unittest
 
 # Using importlib because of numeric characters in package name
-algorithm = importlib.import_module("app.leetcode.350_intersection_of_two_arrays_ii.algorithm")
+algorithm = importlib.import_module("app.leetcode.lc_350_intersection_of_two_arrays_ii.algorithm")
 Solution = algorithm.Solution
 
 

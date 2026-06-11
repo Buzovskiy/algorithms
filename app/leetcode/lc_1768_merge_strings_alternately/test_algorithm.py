@@ -1,5 +1,5 @@
 import unittest
-from .algorithm import Solution
+from app.leetcode.lc_1768_merge_strings_alternately.algorithm import Solution
 
 class TestMergeStringsAlternately(unittest.TestCase):
     def test_merge_alternately(self):

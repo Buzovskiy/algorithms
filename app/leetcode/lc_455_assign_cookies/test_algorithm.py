@@ -2,7 +2,7 @@ import importlib
 import unittest
 
 # Using importlib because of numeric characters in package name
-algorithm = importlib.import_module("app.leetcode.455_assign_cookies.algorithm")
+algorithm = importlib.import_module("app.leetcode.lc_455_assign_cookies.algorithm")
 Solution = algorithm.Solution
 
 class TestAssignCookies(unittest.TestCase):

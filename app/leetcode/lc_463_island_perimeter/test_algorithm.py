@@ -2,7 +2,7 @@ import importlib
 import unittest
 
 # Using importlib because of numeric characters in package name
-algorithm = importlib.import_module("app.leetcode.463_island_perimeter.algorithm")
+algorithm = importlib.import_module("app.leetcode.lc_463_island_perimeter.algorithm")
 Solution = algorithm.Solution
 
 class TestIslandPerimeter(unittest.TestCase):

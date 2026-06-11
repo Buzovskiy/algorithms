@@ -1,5 +1,5 @@
 # 495. Teemo Attacking
-[README on GitHub](https://github.com/Buzovskiy/algorithms/blob/main/app/leetcode/495_teemo_attacking/README.md)
+[README on GitHub](https://github.com/Buzovskiy/algorithms/blob/main/app/leetcode/lc_495_teemo_attacking/README.md)
 
 ## English (Interview Answer)
 

@@ -2,7 +2,8 @@ import importlib
 import unittest
 
 # Using importlib because of numeric characters in package name
-algorithm = importlib.import_module("app.leetcode.485_max_consecutive_ones.algorithm")
+algorithm = importlib.import_module("app.leetcode.lc_485_max_consecutive_ones.algorithm")
+
 Solution = algorithm.Solution
 
 class TestMaxConsecutiveOnes(unittest.TestCase):

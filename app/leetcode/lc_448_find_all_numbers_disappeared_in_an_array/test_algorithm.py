@@ -2,7 +2,7 @@ import importlib
 import unittest
 
 # Using importlib because of numeric characters in package name
-algorithm = importlib.import_module("app.leetcode.448_find_all_numbers_disappeared_in_an_array.algorithm")
+algorithm = importlib.import_module("app.leetcode.lc_448_find_all_numbers_disappeared_in_an_array.algorithm")
 Solution = algorithm.Solution
 
 class TestFindDisappearedNumbers(unittest.TestCase):

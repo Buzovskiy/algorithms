@@ -1,5 +1,5 @@
 # 485. Max Consecutive Ones
-[README on GitHub](https://github.com/Buzovskiy/algorithms/blob/main/app/leetcode/485_max_consecutive_ones/README.md)
+[README on GitHub](https://github.com/Buzovskiy/algorithms/blob/main/app/leetcode/lc_485_max_consecutive_ones/README.md)
 
 ## English (Interview Answer)
 
