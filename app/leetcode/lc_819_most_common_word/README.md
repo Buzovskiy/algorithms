@@ -58,7 +58,7 @@ To solve the Most Common Word problem, I first normalize the paragraph so punctu
 
 The time complexity is O(n + m), where `n` is the length of `paragraph` and `m` is the number of parsed words, because the paragraph is scanned and each word is counted. The space complexity is O(k), where `k` is the number of distinct words stored in the dictionary.
 
-## Espanol (Respuesta para Entrevista)
+## Espanol
 
 Para resolver el problema Most Common Word, primero normalizo el parrafo para que los signos de puntuacion no queden unidos a las palabras. Luego cuento cada palabra en minusculas y mantengo la palabra mas frecuente que no este en la lista de palabras prohibidas.
 
