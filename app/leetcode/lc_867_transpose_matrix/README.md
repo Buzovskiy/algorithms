@@ -53,7 +53,7 @@ To solve the Transpose Matrix problem, we need to create a new matrix where rows
 
 This approach has a time complexity of O(m * n), because every element is visited once, and a space complexity of O(m * n), because we create a new matrix for the answer.
 
-## Español (Respuesta para Entrevista)
+## Español (Respuesta)
 
 Para resolver el problema Transpose Matrix, debemos crear una nueva matriz donde las filas se convierten en columnas y las columnas se convierten en filas. Si la matriz original tiene `m` filas y `n` columnas, la matriz transpuesta debe tener `n` filas y `m` columnas.
 
