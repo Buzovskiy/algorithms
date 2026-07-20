@@ -61,7 +61,7 @@ To solve the Surface Area of 3D Shapes problem, I calculate the contribution of 
 
 This approach has a time complexity of O(n * n), because every grid cell is inspected once and each cell checks four neighbors. The space complexity is O(1), because only a few variables are used.
 
-## Español (Respuesta para Entrevista)
+## Español (Respuesta)
 
 Para resolver el problema Surface Area of 3D Shapes, calculo la contribución de cada torre de forma independiente y resto las caras que quedan ocultas por las torres vecinas.
 
