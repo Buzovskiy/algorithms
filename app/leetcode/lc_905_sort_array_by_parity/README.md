@@ -48,7 +48,7 @@ To solve the Sort Array By Parity problem, I use two pointers to partition the a
 
 The time complexity is O(n), where `n` is the length of `nums`, because each element is visited once. The space complexity is O(1), because the array is rearranged in place.
 
-## Espanol (Respuesta para Entrevista)
+## Espanol (Respuesta)
 
 Para resolver el problema Sort Array By Parity, uso dos punteros para particionar el arreglo en el mismo lugar.
 
